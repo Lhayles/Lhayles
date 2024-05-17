@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @Lhayles
+## Hey 👋, This is Liam Hayles
+[![Gmail Badge](https://img.shields.io/badge/-lhayles5392@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lhayles5392@gmail.com)](mailto:lhayles5392@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/liamhayles/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/liamhayles//)](https://www.linkedin.com/in/https://www.linkedin.com/in/liamhayles//) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Lhayles/)](https://github.com/Lhayles/) <p align='left'>I am a diligent and self motivated individual, who as as an accomplished Physical Therapist Assistant developed interpersonal skills, multi tasking, decision making, and critical thinking. I am making the transition into Data analytics where I can utilize my work ethic to aid in discovering of insights based from data driven decisions.
 
-I am a diligent and self motivated individual, who as as an accomplished Physical Therapist Assistant developed interpersonal skills, multi tasking, decesion making, and critical thinking.  I am making the transistion into Data analytics where I can utilize my work ethic to aid in discovering of insights based from data driven decesions.
-
-I started in TripleTen's Business Intelligence Analytics in Feburary 2024.  Throughout my time in the program, I have had exposure to creating data visualizations along with intrepration of data to assist with business focused deceions.  My program proficiency has expanded to: Tableau, SQL, Power BI and advanced excel/google sheets utilization.
-- 📫 How to reach me ... lhayles@gmail.com, https://www.linkedin.com/in/liam-hayles/
-
-
-<!---
-Lhayles/Lhayles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I started in TripleTen's Business Intelligence Analytics in February 2024. Throughout my time in the program, I have had exposure to creating data visualizations along with intrepratation of data to assist with business focused decisions. My program proficiency has expanded to: Tableau, SQL, Power BI and advanced excel/google sheets utilization.</p>
 --->
